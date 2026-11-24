@@ -6,12 +6,12 @@ Author: Quang Vinh
 Section: Tweaks
 Depends: mobilesubstrate | ellekit, firmware (>= 15.0), coreutils, findutils, grep, sed, tar, ldid, gawk | mawk
 Architecture: iphoneos-arm64e
-Version: 3.9.38
+Version: 2.9.38
 Installed-Size: 46440
 Icon: https://vfake-changeios.github.io/vFake/CydiaIcon.png
-Filename: debs/vFake_3.9.38.deb
-Size: 12739216
-MD5sum: 5fa14aa7a9fb9319c2530fbd7cd21856
-SHA1: d09dfe6e6a770e04fb3f1e53e79e656b59274808
-SHA256: d8a60104622657ff86ebdc89fbea1ff9cc3fef0d4b2b2b865923414778cd5fca
+Filename: debs/vFake_2.9.38.deb
+Size: 12739558
+MD5sum: 31bcccccc02c9e05189e85fd553625e1
+SHA1: 363a6909ef390388163ca041abe60f391744e94f
+SHA256: f6114f77d2d9a0c2a8a2fcebf9d84a2f36f85346e6c9c1c350e6fcbc45ef2487
 
