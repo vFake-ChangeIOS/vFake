@@ -8,6 +8,7 @@ Depends: mobilesubstrate | ellekit, firmware (>= 15.0), coreutils, findutils, gr
 Architecture: iphoneos-arm64e
 Version: 2.9.37
 Installed-Size: 46424
+Icon: https://vfake-changeios.github.io/vFake/CydiaIcon.png
 Filename: debs/vFake_2.9.37.deb
 Size: 12572090
 MD5sum: fce6314642a0070637045a82a57c8d49
