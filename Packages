@@ -7,8 +7,24 @@ Section: Tweaks
 Depends: mobilesubstrate | ellekit, firmware (>= 15.0), coreutils, findutils, grep, sed, tar, ldid, gawk | mawk
 Architecture: iphoneos-arm64e
 Version: 2.9.53
+Installed-Size: 45308
+Filename: debs/vFake_2.9.53_arm64.deb
+Size: 12477474
+MD5sum: 89fcdf7b43708d47fe2e78c64ee6f2e5
+SHA1: 6fe6432e23f92ce1f70e23c8edcda950342400f7
+SHA256: af608276a3c489c95c47d78dec2765a9934467b76c655f4e3bc176cb691cb2ab
+
+Package: com.vif.tool
+Name: vFake
+Description: vFake 2.9.53 - Dopamine RootHide: By Quang Vinh
+Maintainer: Quang Vinh
+Author: Quang Vinh
+Section: Tweaks
+Depends: mobilesubstrate | ellekit, firmware (>= 15.0), coreutils, findutils, grep, sed, tar, ldid, gawk | mawk
+Architecture: iphoneos-arm64e
+Version: 2.9.53
 Installed-Size: 46492
-Filename: debs/vFake_2.9.53.deb
+Filename: debs/vFake_2.9.53_arm64e.deb
 Size: 12596450
 MD5sum: cc4df7af7a1afb22870151b785aecb77
 SHA1: f0429e33a9addb7cf581169aaba47d3cd13b4398
