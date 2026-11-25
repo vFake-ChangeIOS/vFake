@@ -1,17 +1,17 @@
 Package: com.vif.tool
 Name: vFake
-Description: vFake 2.9.42 - Dopamine RootHide: By Quang Vinh
+Description: vFake 2.9.43 - Dopamine RootHide: By Quang Vinh
 Maintainer: Quang Vinh
 Author: Quang Vinh
 Section: Tweaks
 Depends: mobilesubstrate | ellekit, firmware (>= 15.0), coreutils, findutils, grep, sed, tar, ldid, gawk | mawk
 Architecture: iphoneos-arm64e
-Version: 2.9.42
+Version: 2.9.43
 Installed-Size: 46472
 Icon: https://vfake-changeios.github.io/vFake/CydiaIcon.png
-Filename: debs/vFake_2.9.42.deb
-Size: 12592198
-MD5sum: 6817ce984ba73d1720848bfd4eb69e41
-SHA1: d2720780615027847970821fea604a8c4732aa00
-SHA256: 7c58f8df4e544602807b8d5157a64e0bf458a26434a374967c6fe1db9fdff484
+Filename: debs/vFake_2.9.43.deb
+Size: 12595434
+MD5sum: 2ba35fd6e9c3d708e425a4350ad7af9c
+SHA1: 53ee659e2a1ee930df9e4c5472702a2545830cd6
+SHA256: 8bec86befcd1dc8bb1bd5302ca5cb0551b3e0bd6b3ba0d9ceb6f4a7f0166348d
 
